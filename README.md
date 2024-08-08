@@ -1,4 +1,4 @@
-👤🤖## Face Recognition System
+## 👤🤖Face Recognition System
 This project implements a facial recognition system using OpenCV's Haar cascades for face detection and LBPH (Local Binary Patterns Histograms) for face recognition. The system is designed to recognize faces in real-time through a webcam. It trains a model using labeled training data and then uses this model to identify faces in video frames.
 
 ## Project Overview 🚀
@@ -29,4 +29,6 @@ Prepare your training data in the following structure:
 │   ├── image1.jpg
 │   ├── image2.jpg
 `
+## 🧩 Additional Information
+Feel free to modify and extend this project to suit your needs. If you encounter any issues or need further assistance, you can contact me at `amalghozzi@outlook.com`.
 
